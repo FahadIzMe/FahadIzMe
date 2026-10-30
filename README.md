@@ -1,6 +1,10 @@
 ### Hi there 👋
-- Currently doing BSCS from Bahria University.
-- Learning Backend.
+- Graduated with a BSCS from Bahria University having CGPA 3.93/4.
+- BEBRAS international competition Bronze Medal.
+- 1 Backend Internship in Django.
+- IELTS Band 8.
+- Django REST and Flutter Developer.
+- Applying for Masters.
 <!--
 **DracoGhidorah/DracoGhidorah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
